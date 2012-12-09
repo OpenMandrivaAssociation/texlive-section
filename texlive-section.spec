@@ -45,3 +45,17 @@ manageable the business of configuring LaTeX output.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20101024-2
++ Revision: 755883
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20101024-1
++ Revision: 719497
+- texlive-section
+- texlive-section
+- texlive-section
+- texlive-section
+
