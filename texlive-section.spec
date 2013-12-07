@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-section
 Version:	20101024
-Release:	5
+Release:	6
 Summary:	Modifying section commands in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/section
