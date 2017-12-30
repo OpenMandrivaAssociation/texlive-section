@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-section
-Version:	20101024
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	Modifying section commands in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/section
