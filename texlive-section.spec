@@ -5,7 +5,7 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-section
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Modifying section commands in LaTeX
 Group:		Publishing
