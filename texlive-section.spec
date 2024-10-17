@@ -3,7 +3,7 @@ Version:	20180
 Release:	2
 Summary:	Modifying section commands in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/section
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/section
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/section.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/section.doc.r%{version}.tar.xz
